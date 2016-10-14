@@ -1,0 +1,9 @@
+New Main Menu class & object
+  Includes method to create new Character objects and adds them to ArrayLists
+  Character constructor assigns sequential ID number and randomly generated Initiative number
+    Two ArrayLists; one for ID numbers, one for Characters/their Random Initiative numbers
+      Chars added to Random Initiative list as they're created. For loop runs through the list and sorts higher values toward the beginning. 
+      Another for loop looks through Random Initiative list and sorts objects' ID numbers into separate list in order.
+        This should work with existing code to create random turn order 
+  
+
